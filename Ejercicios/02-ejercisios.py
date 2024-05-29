@@ -20,3 +20,11 @@ cadena = "Te quiero solo como amigo"
 print(cadena[: : -1])
 print(cadena[: : 1])
 
+cadxena = "este es el uso de replace"
+
+remplazar = cadxena.replace("e" , "E")
+print(remplazar)
+
+palabra = "eparado"
+reemplazar = palabra.replace("" , ",")
+print("S",reemplazar)
