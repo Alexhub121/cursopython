@@ -14,3 +14,7 @@ print(decimal())#Es necesario mandar llamar def con el print para que return se 
 
 a, b, c, d, e = asignacion() #El return ordena los datos de la funcion en las variables
 print(a)
+print(b)
+print(c)
+print(d)
+print(e)
