@@ -1,0 +1,72 @@
+header{
+    background-color: rgb(7, 241, 241);
+    border: 5px chartreuse;
+    width: 770px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+main{
+    width: 780px;
+    height: 400px;
+}
+
+nav{
+    background-color: rgb(211, 29, 29);
+    width: 150px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+section{
+    background-color: greenyellow;
+    width: 450px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+#primero{
+    background-color: white;
+    width: 440px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+}
+
+#segundo{
+    background-color: white;
+    width: 440px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+}
+
+#tercero{
+    background-color: white;
+    width: 440px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+}
+
+aside{
+    background-color: yellow;
+    width: 150px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: pink;
+    width: 770px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
