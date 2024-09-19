@@ -1,4 +1,73 @@
-*{
+/*{
     font-size: 50px;
     color: pink;
+}*/
+
+/*h1{
+    background-color: purple;
+}*/
+
+/*h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 48px;
+}*/
+
+/*p{
+    text-align: center;
+}*/
+
+/*h1, h2, h3, h4, h5, h6{
+    color: red;
+    background-color: black;
+    text-align: center;
 }
+
+.parrafo1{
+    color: white;
+    background-color: black;
+    font-size: 48px;
+    text-align: center;
+}
+
+.parrafo2{
+    color: white;
+    background-color: green;
+    font-size: 24px;
+    text-align: center;
+}
+
+#link{
+    color: red;
+    text-align: center;
+}
+
+p a{
+    background-color: gre;
+}
+
+h1{
+    text-align: center;
+}
+h1 > a{
+    color: red;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+}
+
+p > a{
+    color: blue;
+    background-color: yellow;
+}
+
+h2 + h3{
+    color: red;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    ;
+}
+
+[class="parrafo1"]{
+    color: red;
+    font-size: 24px;
+}*/

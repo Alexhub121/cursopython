@@ -1,0 +1,10 @@
+.logo{
+    display: block;
+    margin: 0 auto;
+    margin-block-start: 100px;
+}
+
+.barra{
+    margin: 0 auto;
+    width: max-content;
+}
