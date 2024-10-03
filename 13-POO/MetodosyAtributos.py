@@ -15,4 +15,4 @@ telefono.marca #asi agregamos el atributo/caracteristica al objeto
 print(telefono.marca)
 
 print(telefono.llamar("Hola, con quien hablo?")) #Aqui mandamos llamar el metodo
-telefono.musica() #Mandamos a hablar el metodo musica
+telefono.musica() #Mandamos a hablar el metodo musicadd
